@@ -1,2 +1,6 @@
 # hello-world
-github öğreniyorum
+# github öğreniyorum
+# ahanda burada değişiklik yaptım be
+# öncekinden de iyi oldu.
+
+Console.WriteLine("Hello World");
